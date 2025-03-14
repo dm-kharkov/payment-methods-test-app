@@ -1,0 +1,15 @@
+@use "tailwindcss";
+
+:root {
+  --primary-text: #FDFDFD;
+  --gray-text: #606060;
+  --gray-background: #121212;
+  --gray-light: #191919;
+  --gray-border: #D6D6D6;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #fff;
+  background-color: #000;
+}
