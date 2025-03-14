@@ -61,4 +61,4 @@ Starts the process of creation two main components for successfully indexing you
 parts of the website should be included and completely excluded from crawling.
 
 
-### Powered by: ``7Devs``
+### Powered by: ``dm``

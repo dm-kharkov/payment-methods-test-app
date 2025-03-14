@@ -1,11 +1,4 @@
 # **Manage Payment Methods: Guile Web Developer Test Task**
-
-# **📌 Overview**
-
-Guile is a **barber marketplace platform** that allows clients to book and manage appointments. This test task focuses on building a **Saved Payment Methods screen**, where users can view, add, and remove payment methods in their Guile account.
-
-You’ll be working from a **Figma design** (linked below) and using **mock data** to simulate an API response. We want to see how well you structure your code, manage state, and create a smooth user experience.
-
 # **🎯 Task Requirements**
 
 **Display Saved Payment Methods**
